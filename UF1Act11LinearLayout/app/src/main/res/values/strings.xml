@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UF1ACT11LinearLayout</string>
+    <string name="edat">Edat</string>
+    <string name="Cognom">Cognom</string>
+    <string name="nom">Nom</string>
+    <string name="usuari">Usuari</string>
+    <string name="contrasenya">Contrasenya</string>
+    <string name="enviar">Enviar</string>
+    <string name="telefon">Telèfon</string>
+    <string name="correu_electr_nic">Correu electrònic</string>
+    <string name="mascul">Masculí</string>
+    <string name="femen">Femení</string>
+    <string name="g_nere">Gènere</string>
+</resources>
